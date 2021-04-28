@@ -5,6 +5,7 @@ int main(){
 
         int i, a[100], b=0;
         int n, min, sum = 0, index = 0;
+        srand(time(0));
         const int Low=-100 , High= 100;
 
         char ch;
