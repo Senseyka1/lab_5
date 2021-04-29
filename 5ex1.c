@@ -36,7 +36,7 @@ int main(){
     {
     c[i] = a[i] + b[i];
      printf("c[%d] = %d\n",i,c[i]);
-     }
+    }
      
         return 0;
 }
